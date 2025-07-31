@@ -1,0 +1,14 @@
+H:\פרויקט DP\Project_DP\Project_DP\bin\Debug\net8.0\Project_DP.exe
+H:\פרויקט DP\Project_DP\Project_DP\bin\Debug\net8.0\Project_DP.deps.json
+H:\פרויקט DP\Project_DP\Project_DP\bin\Debug\net8.0\Project_DP.runtimeconfig.json
+H:\פרויקט DP\Project_DP\Project_DP\bin\Debug\net8.0\Project_DP.dll
+H:\פרויקט DP\Project_DP\Project_DP\bin\Debug\net8.0\Project_DP.pdb
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.AssemblyInfoInputs.cache
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.AssemblyInfo.cs
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.csproj.CoreCompileInputs.cache
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.dll
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\refint\Project_DP.dll
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.pdb
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\Project_DP.genruntimeconfig.cache
+H:\פרויקט DP\Project_DP\Project_DP\obj\Debug\net8.0\ref\Project_DP.dll

@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\taskbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\taskbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\qastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\qastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\todostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\todostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\interface\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\interface\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\interface\\imessageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\interface\\imessageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\codereviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\codereviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\inprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\inprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\enum\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\enum\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\interface\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\interface\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 dp\\project_dp\\project_dp\\class\\donestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB100-1BDE-460E-8A0B-D6DDD183818C}|Project_DP\\Project_DP.csproj|solutionrelative:project_dp\\class\\donestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05D8\u05E8\u05DB\u05D8\u05D9\u05E0\u05D2\u05D5\u05D8 \u05E8\u05D1\u05E7\u05D41\\AppData\\Local\\Temp\\.vsdbgsrc\\5657d002f4404eba58db43caca5ebe1c81cbcca3f6d80c0f3d4a73085b30368a\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05D8\u05E8\u05DB\u05D8\u05D9\u05E0\u05D2\u05D5\u05D8 \u05E8\u05D1\u05E7\u05D41\\AppData\\Local\\Temp\\.vsdbgsrc\\3b1898d764ebeb29d144bdebcbcf84df385d160b27fedcc0d41cad3eba04bfe3\\IStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\User.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\User.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\User.cs",
+              "RelativeToolTip": "Project_DP\\Class\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:14:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\Task.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\Task.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\Task.cs",
+              "RelativeToolTip": "Project_DP\\Class\\Task.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwE0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:28:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoState.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\ToDoState.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\ToDoState.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\ToDoState.cs",
+              "RelativeToolTip": "Project_DP\\Class\\ToDoState.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:02:13.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\Message.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\Message.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\Message.cs",
+              "RelativeToolTip": "Project_DP\\Class\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:50:40.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskBuilder.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\TaskBuilder.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\TaskBuilder.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\TaskBuilder.cs",
+              "RelativeToolTip": "Project_DP\\Class\\TaskBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:43:55.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QAState.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\QAState.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\QAState.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\QAState.cs",
+              "RelativeToolTip": "Project_DP\\Class\\QAState.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:04:24.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CodeReviewState.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\CodeReviewState.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\CodeReviewState.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\CodeReviewState.cs",
+              "RelativeToolTip": "Project_DP\\Class\\CodeReviewState.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:05:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMessageUser.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Interface\\IMessageUser.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Interface\\IMessageUser.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Interface\\IMessageUser.cs",
+              "RelativeToolTip": "Project_DP\\Interface\\IMessageUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:35:02.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Interface\\IMessage.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Interface\\IMessage.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Interface\\IMessage.cs",
+              "RelativeToolTip": "Project_DP\\Interface\\IMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:20:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\Memento.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\Memento.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\Memento.cs",
+              "RelativeToolTip": "Project_DP\\Class\\Memento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:44:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Program.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Program.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Program.cs",
+              "RelativeToolTip": "Project_DP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:53:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStatus.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\IStatus.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\IStatus.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\IStatus.cs",
+              "RelativeToolTip": "Project_DP\\Class\\IStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:34:28.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InProgressState.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\InProgressState.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\InProgressState.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\InProgressState.cs",
+              "RelativeToolTip": "Project_DP\\Class\\InProgressState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:05:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Enum\\Roles.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Enum\\Roles.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Enum\\Roles.cs",
+              "RelativeToolTip": "Project_DP\\Enum\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:19:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Enum\\Priority.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Enum\\Priority.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Enum\\Priority.cs",
+              "RelativeToolTip": "Project_DP\\Enum\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:51:51.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITask.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Interface\\ITask.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Interface\\ITask.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Interface\\ITask.cs",
+              "RelativeToolTip": "Project_DP\\Interface\\ITask.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:26:45.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoneState.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\DoneState.cs",
+              "RelativeDocumentMoniker": "Project_DP\\Class\\DoneState.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 DP\\Project_DP\\Project_DP\\Class\\DoneState.cs",
+              "RelativeToolTip": "Project_DP\\Class\\DoneState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:03:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D8\u05E8\u05DB\u05D8\u05D9\u05E0\u05D2\u05D5\u05D8 \u05E8\u05D1\u05E7\u05D41\\AppData\\Local\\Temp\\.vsdbgsrc\\5657d002f4404eba58db43caca5ebe1c81cbcca3f6d80c0f3d4a73085b30368a\\Task.cs",
+              "ToolTip": "C:\\Users\\\u05D8\u05E8\u05DB\u05D8\u05D9\u05E0\u05D2\u05D5\u05D8 \u05E8\u05D1\u05E7\u05D41\\AppData\\Local\\Temp\\.vsdbgsrc\\5657d002f4404eba58db43caca5ebe1c81cbcca3f6d80c0f3d4a73085b30368a\\Task.cs [Read Only]",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:07:56.531Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStatus.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D8\u05E8\u05DB\u05D8\u05D9\u05E0\u05D2\u05D5\u05D8 \u05E8\u05D1\u05E7\u05D41\\AppData\\Local\\Temp\\.vsdbgsrc\\3b1898d764ebeb29d144bdebcbcf84df385d160b27fedcc0d41cad3eba04bfe3\\IStatus.cs",
+              "ToolTip": "C:\\Users\\\u05D8\u05E8\u05DB\u05D8\u05D9\u05E0\u05D2\u05D5\u05D8 \u05E8\u05D1\u05E7\u05D41\\AppData\\Local\\Temp\\.vsdbgsrc\\3b1898d764ebeb29d144bdebcbcf84df385d160b27fedcc0d41cad3eba04bfe3\\IStatus.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:06:30.974Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
